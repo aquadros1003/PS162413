@@ -1,3 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-float foo(const * float wsk1, float *wsk2)
+float foo(float * const wsk1, float const *wsk2)
+{
+	float* wsk1 = &a;
+	float* wsk2 = &b;
+	float suma = a + b;
+	return suma;
+}
