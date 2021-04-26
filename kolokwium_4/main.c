@@ -21,4 +21,5 @@ int main()
 	int n2 = 777;
 	printf("%d\n", kolokwium4(n1));
 	printf("%d\n", kolokwium4(n2));
+	return 0;
 }
