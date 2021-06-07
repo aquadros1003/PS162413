@@ -39,6 +39,6 @@ int main()
     printf("%s\n",napis2);
     printf("%d\n",strlen(napis1));
     printf("%d\n",strlen(napis2));
-    printf("%d\n",foo(napis1,napis2));
+    printf("%d\n",zadanie3(napis1,napis2));
     return 0;
 }
