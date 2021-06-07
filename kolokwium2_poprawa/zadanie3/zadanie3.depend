@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623063497 source:c:\users\aquad\onedrive - university of warmia and mazuria in olsztyn\pulpit\kolokwium2_poprawa\zadanie3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
